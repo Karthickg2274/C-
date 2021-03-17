@@ -1,0 +1,12 @@
+C:\Users\KarthickG\source\repos\RetailShop.API\RetailSop.Models\bin\Release\netcoreapp3.1\RetailShop.Models.deps.json
+C:\Users\KarthickG\source\repos\RetailShop.API\RetailSop.Models\bin\Release\netcoreapp3.1\RetailShop.Models.runtimeconfig.json
+C:\Users\KarthickG\source\repos\RetailShop.API\RetailSop.Models\bin\Release\netcoreapp3.1\RetailShop.Models.runtimeconfig.dev.json
+C:\Users\KarthickG\source\repos\RetailShop.API\RetailSop.Models\bin\Release\netcoreapp3.1\RetailShop.Models.dll
+C:\Users\KarthickG\source\repos\RetailShop.API\RetailSop.Models\bin\Release\netcoreapp3.1\RetailShop.Models.pdb
+C:\Users\KarthickG\source\repos\RetailShop.API\RetailSop.Models\obj\Release\netcoreapp3.1\RetailShop.Models.csprojAssemblyReference.cache
+C:\Users\KarthickG\source\repos\RetailShop.API\RetailSop.Models\obj\Release\netcoreapp3.1\RetailShop.Models.AssemblyInfoInputs.cache
+C:\Users\KarthickG\source\repos\RetailShop.API\RetailSop.Models\obj\Release\netcoreapp3.1\RetailShop.Models.AssemblyInfo.cs
+C:\Users\KarthickG\source\repos\RetailShop.API\RetailSop.Models\obj\Release\netcoreapp3.1\RetailShop.Models.csproj.CoreCompileInputs.cache
+C:\Users\KarthickG\source\repos\RetailShop.API\RetailSop.Models\obj\Release\netcoreapp3.1\RetailShop.Models.dll
+C:\Users\KarthickG\source\repos\RetailShop.API\RetailSop.Models\obj\Release\netcoreapp3.1\RetailShop.Models.pdb
+C:\Users\KarthickG\source\repos\RetailShop.API\RetailSop.Models\obj\Release\netcoreapp3.1\RetailShop.Models.genruntimeconfig.cache

@@ -1,0 +1,17 @@
+C:\Users\KarthickG\source\repos\RetailShop.API\RetailShop.Services\bin\Release\netcoreapp3.1\RetailShop.Services.deps.json
+C:\Users\KarthickG\source\repos\RetailShop.API\RetailShop.Services\bin\Release\netcoreapp3.1\RetailShop.Services.runtimeconfig.json
+C:\Users\KarthickG\source\repos\RetailShop.API\RetailShop.Services\bin\Release\netcoreapp3.1\RetailShop.Services.runtimeconfig.dev.json
+C:\Users\KarthickG\source\repos\RetailShop.API\RetailShop.Services\bin\Release\netcoreapp3.1\RetailShop.Services.dll
+C:\Users\KarthickG\source\repos\RetailShop.API\RetailShop.Services\bin\Release\netcoreapp3.1\RetailShop.Services.pdb
+C:\Users\KarthickG\source\repos\RetailShop.API\RetailShop.Services\bin\Release\netcoreapp3.1\RetailShop.Models.dll
+C:\Users\KarthickG\source\repos\RetailShop.API\RetailShop.Services\bin\Release\netcoreapp3.1\RetailShop.Repository.dll
+C:\Users\KarthickG\source\repos\RetailShop.API\RetailShop.Services\bin\Release\netcoreapp3.1\RetailShop.Repository.pdb
+C:\Users\KarthickG\source\repos\RetailShop.API\RetailShop.Services\bin\Release\netcoreapp3.1\RetailShop.Models.pdb
+C:\Users\KarthickG\source\repos\RetailShop.API\RetailShop.Services\obj\Release\netcoreapp3.1\RetailShop.Services.csprojAssemblyReference.cache
+C:\Users\KarthickG\source\repos\RetailShop.API\RetailShop.Services\obj\Release\netcoreapp3.1\RetailShop.Services.AssemblyInfoInputs.cache
+C:\Users\KarthickG\source\repos\RetailShop.API\RetailShop.Services\obj\Release\netcoreapp3.1\RetailShop.Services.AssemblyInfo.cs
+C:\Users\KarthickG\source\repos\RetailShop.API\RetailShop.Services\obj\Release\netcoreapp3.1\RetailShop.Services.csproj.CoreCompileInputs.cache
+C:\Users\KarthickG\source\repos\RetailShop.API\RetailShop.Services\obj\Release\netcoreapp3.1\RetailShop.Services.csproj.CopyComplete
+C:\Users\KarthickG\source\repos\RetailShop.API\RetailShop.Services\obj\Release\netcoreapp3.1\RetailShop.Services.dll
+C:\Users\KarthickG\source\repos\RetailShop.API\RetailShop.Services\obj\Release\netcoreapp3.1\RetailShop.Services.pdb
+C:\Users\KarthickG\source\repos\RetailShop.API\RetailShop.Services\obj\Release\netcoreapp3.1\RetailShop.Services.genruntimeconfig.cache
